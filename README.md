@@ -4,3 +4,5 @@
 ###How to run
 1. Run``yarn install``to install all the dependencies.
 2. Go to your project root directory, and run ``yarn test`` to see how the ``flatten`` function performs.
+   
+   Your output should be similar like this:![image](./screenshot/img.png)
